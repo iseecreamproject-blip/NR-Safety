@@ -1,0 +1,5 @@
+{
+  "name": "NR Safety Training Generator",
+  "description": "A compliant Work Safety (NR) training content generator powered by Gemini.",
+  "requestFramePermissions": []
+}
